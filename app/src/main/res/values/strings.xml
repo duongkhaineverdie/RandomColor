@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Random Color</string>
+    <string name="random_color">Random Color</string>
+    <string name="copied">Copied</string>
+</resources>
